@@ -1,2 +1,2 @@
 # haotianshen.github.io
-About myself
+This is a personal website github repo
