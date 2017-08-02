@@ -1,0 +1,67 @@
+.contact_icon a img{
+  height: 50px;
+  width: 50px;
+}
+
+.contact_icon li{
+  list-style-type: none;
+}
+
+.contact_icon{
+  position: fixed;
+  height: 50%;
+  margin-top: 38.2vh;
+  right: 10px;
+}
+
+.right_dock{
+  position: absolute;
+  right:0px;
+  top:0px;
+}
+
+.main-warpper p{
+  font-size: 19px;
+  text-align:left;
+}
+
+a{
+  color: #fcae11; 
+  text-decoration: none;
+}
+
+h1.name_middle{
+  text-align: center;
+  font-size: 45px;
+}
+
+h2.name_middle{
+  text-align: center;
+}
+
+div.l1title_div{
+  height: 20%;  
+}
+
+.l2title_div{
+  width: 40%;
+  text-align: center;
+  margin:  0 auto;
+}
+
+.text_middle{
+  text-align: center;
+}
+
+hr{
+  width:  50%;
+  border-top: 1px;
+  margin-top: 20px;
+  border-style: dotted;
+}
+
+body{
+  margin: 0;
+  font-family: sans-serif;
+  color:#303030;
+}
