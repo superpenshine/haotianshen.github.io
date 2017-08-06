@@ -1,13 +1,17 @@
 
+
 .gmail_icon_div:hover a img{
+  transition-duration:0.05s;
   transform: scale(1.1);
 }
 
 .github_icon_div:hover a img{
+  transition-duration:0.05s;
   transform: scale(1.1);
 }
 
 .linkedin_icon_div:hover a img{
+  transition-duration:0.05s;
   transform: scale(1.1);
 }
 
@@ -23,20 +27,25 @@
 
 .contact_icon{
   position: fixed;
-  height: 50%;
   margin-top: 38.2vh;
   right: 20px;
 }
 
 .right_dock{
+  width:20%;
+  height: 100%;
+  right: 0px;
+  top: 0px;
   position: absolute;
-  right:0px;
-  top:0px;
 }
 
 .main-warpper p{
   font-size: 19px;
   text-align:left;
+}
+
+a:hover{
+  color: #f86516;
 }
 
 a{
