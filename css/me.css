@@ -66,6 +66,11 @@ div.l1title_div{
   height: 20%;  
 }
 
+.main-warpper {
+  position: relative;
+  min-height: 100vh;
+}
+
 .l2title_div{
   width: 38.2%;
   text-align: center;
@@ -74,6 +79,19 @@ div.l1title_div{
 
 .text_middle{
   text-align: center;
+}
+
+.footer_div {
+  background-color: #F2F2F2;
+  font-size: 11px;
+  bottom: 0;
+  position: absolute;
+  height: 2.5rem;
+  width: 100%;
+}
+
+#contents {
+  padding-bottom: 2.5rem;
 }
 
 hr{
